@@ -1,0 +1,18 @@
+
+02/11/2018
+Parcial Programaci�n III - UTN FRGP
+
+Nombre Alumno/a: Mansilla Francisco.
+
+
+Consignas: 
+
+A partir de la soluci�n VS y la DB dadas, desarrollar la siguiente funcionalidad:
+
+1- Traer autos (listado con: Modelo, Marca, Color).
+
+------TEMA 1----------
+2- Filtro por Marca, Modelo o Color.
+3- Eliminar un auto de manera f�sica. 
+	- pedir autorizaci�n para eliminar (user y pass); si pasa le permite eliminar, sino no.
+

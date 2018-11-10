@@ -7,7 +7,7 @@ namespace BLL.Services
 {
     class AutoServices
     {
-        private static AUTOS _data = new AUTOS();
+        private static DB _data = new DB();
 
         public IList<AutoVM> GetAllAutos()
         {
